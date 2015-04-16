@@ -36,10 +36,6 @@ This plugin enables site owners to easily embed coub looped videos into your Wor
 * PHP version 5.4 or greater.
 * MySQL version 5.5 or greater.
 
-== Screenshots ==
-1. Pasting the URL to the text-editor.
-2. Pasting the URL to the visual-editor.
-
 == Changelog ==
 
 = 1.0 =
