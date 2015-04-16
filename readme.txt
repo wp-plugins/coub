@@ -11,9 +11,11 @@ Embed coub.com looped videos into your WordPress site
 
 == Description ==
 
-A [coub](https://coub.com) is a looped video up to 10 seconds long. Turn your favorite videos into coubs online. Share them with friends and enjoy what others create.
+A [coub](https://coub.com) is a looped video with audio, up to 10 seconds long. Turn your favorite videos into coubs online. Share them with friends and enjoy what others create.
 
 This plugin enables site owners to easily embed coub looped videos into your WordPress site using nothing but a URL. Just copy the video URL from [coub.com](https://coub.com) and paste it to your post text editor. Then simply click over to the visual editor to confirm that it loads properly.
+
+https://www.youtube.com/watch?v=Vp7M6hRn9CI
 
 == Installation ==
 
