@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: Coub
+Plugin URI:  https://wordpress.org/plugins/coub/
 Description: Embed coub.com looped videos into your WordPress site
 Version:     1.0
 Author:      Rami Yushuvaev
